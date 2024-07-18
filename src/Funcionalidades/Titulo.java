@@ -19,7 +19,6 @@ public class Titulo implements ReprodutorMusical {
         System.out.println("Pausando musica: " + nome);
     }
 
-    // Adicione getters e setters se necessário
     public String getNome() {
         return nome;
     }
